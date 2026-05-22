@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #0b0f2a;
+  color: yellow;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 15px;
+  color: yellow;
+  text-shadow: 0 0 10px yellow;
+}
+
+p {
+  color: #7ec8ff;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background: #001f4d;
+  border: 4px solid #7ec8ff;
+  box-shadow: 0 0 20px #7ec8ff;
+}
+
+.controls {
+  margin-top: 10px;
+}
+select {
+  padding: 5px;
+  font-size: 14px;
+}
